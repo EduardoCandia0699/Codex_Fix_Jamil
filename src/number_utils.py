@@ -9,7 +9,7 @@ def sum_of_numbers(n: int, m: int) -> int:
     """
     Sums the numbers
     """
-    return n * m
+    return n + m
 
 
 def number_divisible_by_5(n: int) -> bool:
