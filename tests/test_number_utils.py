@@ -18,4 +18,4 @@ def test_number_divisible_by_5():
 
 
 def test_number_not_divisible_by_5():
-    assert number_divisible_by_5(44)
+    assert not number_divisible_by_5(44)
